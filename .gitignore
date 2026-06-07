@@ -1,0 +1,32 @@
+# Proiect Final AIE - fișiere ignorate
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Test cache
+.pytest_cache/
+
+# Environment variables
+.env
+.env.*
+
+# Database și modele salvate
+data/*.db
+data/*.sqlite
+models/*.pkl
+models/*.joblib
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Loguri
+*.log
