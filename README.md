@@ -1,4 +1,4 @@
-# Proiect Final AIE: Prognoza cursului valutar BNR
+#  Prognoza cursului valutar BNR
 
 Acest proiect este un prototip pentru o aplicație de prognoză a cursului valutar BNR, cu arhitectură backend FastAPI, frontend Streamlit și componente de scraping, stocare SQLite, antrenare modele și chatbot integrat.
 
